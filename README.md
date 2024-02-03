@@ -1,4 +1,4 @@
-Welcome to my GitHub repository, where I share my first three Java projects as I embark on my journey to learn the Java programming language.
+Welcome to my GitHub repository, where I share my first Java projects as I embark on my journey to learn the Java programming language.
 
 Over the past few weeks, I've been diligently honing my coding skills, tackling fundamental tasks on platforms like Codewars and others. 
 Now, I believe it's time to take a step forward and venture into the world of creating my own projects.
